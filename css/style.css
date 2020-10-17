@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.posts-container {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(283px, 293px));
+  justify-content: center;
+  gap: 20px;
+}
+
+.img-container {
+  position: relative;
+}
+
+.item-container:hover .img-description {
+  display: flex;
+}
+
+.img-description {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 865px){
+  .posts-container {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3px;
+    justify-content: stretch;
+  }
+}
