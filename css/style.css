@@ -8,7 +8,7 @@
   --followers-color: rgb(132, 132, 132);
   --max-width: 936px;
   --gap-size: 20px;
-  --dev-grid: solid;  /* 'none' (disabled) or 'solid' (enable) */
+  --dev-grid: none;  /* 'none' (disabled) or 'solid' (enable) */
 }
 
 /***************************HTML MARKUP STYLES***************************/
@@ -314,6 +314,10 @@ section .desc-item:nth-of-type(4) .desc-nav li a {
   border: 2px var(--dev-grid) red;
 }
 
+.item-container img {
+  width: 100%;
+}
+
 .item-container:hover .img-description {
   padding: 0px 40px;
   display: flex;
@@ -404,6 +408,7 @@ footer .footer-container li {
 
   section .desc-item:nth-of-type(2) {
     width: 100%;
+    padding-left: 15px;
   }
 }
 
