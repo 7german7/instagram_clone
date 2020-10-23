@@ -11,3 +11,6 @@ On the course, several features are implemented in both languages **HTML** and *
  - Use of **Grid Areas** for the interaction of spaces in the layout.
  - Use of `display: flex;` property for one dimension positioning and alignment and responsive feature generation.
  - Use of **media queries** to control the style sheet properties for different devices.
+
+ ## Results
+Below is the result of **Instagram Clone**, if you would like to see the web page for yourself, just click on the following [**link**](https://7german7.github.io/instagram_clone/).
