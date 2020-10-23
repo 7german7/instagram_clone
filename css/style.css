@@ -318,6 +318,14 @@ section .desc-item:nth-of-type(4) .desc-nav li a {
   width: 100%;
 }
 
+.img-container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .item-container:hover .img-description {
   padding: 0px 40px;
   display: flex;
@@ -336,6 +344,10 @@ section .desc-item:nth-of-type(4) .desc-nav li a {
   display: none;
   justify-content: center;
   align-items: center;
+}
+
+.img-description .icon {
+  width: 22px;
 }
 
 
