@@ -1,3 +1,3 @@
 # Instagram Clone
-This is a web page created with the intention of putting practice the knowledge acquired from the CSS Grid Layout Course of Platzi.
+This is a web page created with the intention of putting practice the knowledge acquired from the [**CSS Grid Layout**]('#https://platzi.com/clases/css-grid-layout/?__cf_chl_jschl_tk__=36fc8b4d4acb91caabd8fc165606b94843917464-1603478245-0-AeDvv72r4SbLBBORXtY5tvxEjYhYdYQqfn2Fy_7Zcs9d2fBVlIoA7lYdkrARNjsRjsR0EhJvwoULJKkTzbqjvHbuQbwYaqV_n-Gw7UxVkJeOYEyqRUS9uY3F2EpYi-PFsACz4nwCGxQRTeft3WvG7xdsm_DVosY5Kq1nabR-5vvNv3YWW8109q7CwZ1IaIXAGxK6AijDORB1Tf8l2IGAicZoF-tWoc1s_1Ka2UhRNNjY351zemiI65nbEaKch3ISHAln2H7kP4YETh7brk4yc9cRgQiRigEBMVqQuReaUzbskv22FJM2WKM4fI4rY2WrtY9_qZ6YUgf80Z2LNS1Hoyzl_W7ehQzQIWbG7lxNl5nZ') Course of [**Platzi**]('#https://platzi.com/').
 The objective of this small project is to simulate the Instagram Landing page and its behavior as a responsive application.
