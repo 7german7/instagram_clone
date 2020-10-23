@@ -5,7 +5,7 @@ The objective of this small project is to simulate the **Instagram Landing Page*
 ## Features
 On the course, several features are implemented in both languages **HTML** and **CSS** such as:
 
- - Use of **semantic HTML** Labels such as `header`, `main`, ``section`, `aside`, and `footer`.
+ - Use of **semantic HTML** Labels such as `header`, `main`, `section`, `aside`, and `footer`.
  - Use of `padding` and `margin` properties to getting touch with box model.
  - Use of `display: grid;` property to control the Grid Layout and Responsive Behavior.
  - Use of **Grid Areas** for the interaction of spaces in the layout.
