@@ -8,7 +8,7 @@ On the course, several features are implemented in both languages **HTML** and *
  - Use of **semantic HTML** Labels such as `header`, `main`, `section`, `aside`, and `footer`.
  - Use of `padding` and `margin` properties to getting touch with box model.
  - Use of `display: grid;` property to control the Grid Layout and Responsive Behavior.
- - Use of **Grid Areas** for the interaction of spaces in the layout.
+ - Use of **Grid Area** for the interaction of spaces in the layout.
  - Use of `display: flex;` property for one dimension positioning and alignment and responsive feature generation.
  - Use of **media queries** to control the style sheet properties for different devices.
 
