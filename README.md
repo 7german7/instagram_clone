@@ -14,6 +14,6 @@ On the course, several features are implemented in both languages **HTML** and *
 
 ## Results
 
-![Instagram Clone](https://i.imgur.com/FFQIG0i.png)
-
 Below is the result of **Instagram Clone**, if you would like to see the web page for yourself, just click on the following [**link**](https://7german7.github.io/instagram_clone/).
+
+![Instagram Clone](https://i.imgur.com/FFQIG0i.png)
