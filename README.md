@@ -12,5 +12,8 @@ On the course, several features are implemented in both languages **HTML** and *
  - Use of `display: flex;` property for one dimension positioning and alignment and responsive feature generation.
  - Use of **media queries** to control the style sheet properties for different devices.
 
- ## Results
+## Results
+
+![Instagram Clone](https://i.imgur.com/FFQIG0i.png)
+
 Below is the result of **Instagram Clone**, if you would like to see the web page for yourself, just click on the following [**link**](https://7german7.github.io/instagram_clone/).
