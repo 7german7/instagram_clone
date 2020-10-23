@@ -8,7 +8,7 @@
   --followers-color: rgb(132, 132, 132);
   --max-width: 936px;
   --gap-size: 20px;
-  --dev-grid: solid;  /* 'none' (disabled) or 'solid' (enable) */
+  --dev-grid: none;  /* 'none' (disabled) or 'solid' (enable) */
 }
 
 /***************************HTML MARKUP STYLES***************************/
